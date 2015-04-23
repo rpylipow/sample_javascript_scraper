@@ -1,0 +1,10 @@
+{
+  "name"         : "node-web-scraper",
+  "version"      : "0.0.1",
+  "main"         : "server.js",
+  "dependencies" : {
+    "hapi"       : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
